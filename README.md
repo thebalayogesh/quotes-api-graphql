@@ -61,7 +61,7 @@ query {
 Get a Author Quote
 ```sh
 query {
-  authorQuotes(author: "Mark Twain") {
+  authorQuotes(author: "abdul kalam") {
     id
     quote
     author
