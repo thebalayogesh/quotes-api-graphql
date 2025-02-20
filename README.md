@@ -73,8 +73,8 @@ query {
 Add a New Quote With Mutation
 ```sh
 mutation {
-  addQuote(quote: "Success is not final, failure is not fatal.", 
-           author: "Winston Churchill", 
+  addQuote(quote: "I've failed many times, but I'm not a failure—I rise stronger every time! 💪🔥", 
+           author: "Yogeshwaran", 
            genre: "motivational") {
     id
     quote
