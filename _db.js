@@ -1,7 +1,8 @@
 import Database from 'better-sqlite3';
 
 const db = new Database('quotes.db');
-// db.pragma('journal_mode = WAL');
+// db.pragma('jo
+// urnal_mode = WAL');
 
 export function getAllQuotes() {
   return db.prepare('SELECT * FROM quotes').all();
