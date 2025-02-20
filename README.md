@@ -16,7 +16,7 @@ This is a **GraphQL API** built with **Node.js, Apollo Server, and SQLite**. It 
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/YOUR_GITHUB_USERNAME/quotes-api-graphql.git
+git clone https://github.com/thebalayogesh/quotes-api-graphql.git
 cd quotes-api-graphql
 npm install
 npm run start
